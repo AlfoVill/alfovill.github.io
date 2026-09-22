@@ -18,7 +18,7 @@ function App() {
     <main>
       {activeScene === 'intro' && (
         <Intro
-          name="Alfonso Villaseñor"
+          name="Alfonso Villaseñor Galindo"
           onEnter={handleEnter}
         />
       )}
